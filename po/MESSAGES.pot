@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-27 22:34+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/App.py:60
+msgid "Configuration error"
+msgstr ""
+
+#: src/App.py:60
+msgid ""
+"There seems to be an error accessing the configuration directory of MP.<br /"
+"><br />You can find this folder in your home directory, it is named ».mp«. "
+"Most likely this folder is hidden, so you have to enable the »Show hidden "
+"files« option in your file browser. Please make sure you have permissions to "
+"read and write in your home directory and in this ».mp« folder (if it "
+"exists).<br /><br />If you can't solve the problem on your own, please feel "
+"free to ask for support on <a href=\"http://mp.devkid.net/\">http://mp."
+"devkid.net/</a>.<br /><br />To find out more about this error, try to run "
+"»mp« from a terminal program and watch its output."
+msgstr ""
+
+#: src/MainWindow.py:72
+msgid "&File"
+msgstr ""
+
+#: src/MainWindow.py:72
+msgid "Rearrange window contents"
+msgstr ""
+
+#: src/MainWindow.py:75
+msgid "Play"
+msgstr ""
+
+#: src/MainWindow.py:76
+msgid "Skip"
+msgstr ""
+
+#: src/MainWindow.py:103 src/MainWindow.py:111
+msgid "Stopped"
+msgstr ""
+
+#: src/MainWindow.py:113
+msgid "Currently playing:"
+msgstr ""
+
+#: src/MainWindow.py:128
+msgid "Title"
+msgstr ""
+
+#: src/MainWindow.py:128
+msgid "Album"
+msgstr ""
+
+#: src/MainWindow.py:138
+msgid "All artists"
+msgstr ""
+
+#: src/MainWindow.py:167
+msgid "All albums"
+msgstr ""

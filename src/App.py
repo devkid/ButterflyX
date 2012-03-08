@@ -167,9 +167,4 @@ import Components
 
 app.mainwindow.load ()
 
-app.library.addTrack (Track.FileTrack ("/home/devkid/Musik/The Lion King Musical - Original Broadway Cast Recording FLAC/01 - The Lion King Cast - Circle Of Life.flac"))
-app.library.addTrack (Track.FileTrack ("/home/devkid/Musik/The Lion King Musical - Original Broadway Cast Recording FLAC/02 - The Lion King Cast - Grasslands Chant.flac"))
-app.library.addTrack (Track.FileTrack ("/home/devkid/Musik/Lana Del Rey/Born To Die/04 - Video Games.mp3"))
-app.library.addTrack (Track.FileTrack ("/home/devkid/Musik/Aura Dione/Before The Dinosaurs/03 - Friends.mp3"))
-
 app.exec_ ()

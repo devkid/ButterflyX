@@ -1,0 +1,86 @@
+# German translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Alfred Krohmer <devkid@gmx.net>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-27 22:34+0100\n"
+"PO-Revision-Date: 2012-02-27 20:47+0100\n"
+"Last-Translator: Alfred Krohmer <devkid@gmx.net>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/App.py:60
+msgid "Configuration error"
+msgstr "Konfigurationsfehler"
+
+#: src/App.py:60
+msgid ""
+"There seems to be an error accessing the configuration directory of MP.<br /"
+"><br />You can find this folder in your home directory, it is named ».mp«. "
+"Most likely this folder is hidden, so you have to enable the »Show hidden "
+"files« option in your file browser. Please make sure you have permissions to "
+"read and write in your home directory and in this ».mp« folder (if it "
+"exists).<br /><br />If you can't solve the problem on your own, please feel "
+"free to ask for support on <a href=\"http://mp.devkid.net/\">http://mp."
+"devkid.net/</a>.<br /><br />To find out more about this error, try to run "
+"»mp« from a terminal program and watch its output."
+msgstr ""
+"Es scheint ein Problem mit dem Zugriff auf das Konfigurationsverzeichnis von "
+"MP zu geben.<br />Du kannst dieses Verzeichnis in Deinem Persönlichen "
+"Verzeichnis finden, es heißt ».mp«. In den meisten Fällen wird dieser Ordner "
+"versteckt sein, weshalb Du die Option »Versteckte Dateien anzeigen«-Option "
+"in deinem Datei Manager einschalten musst, um es zu sehen. Stelle bitte "
+"sicher, dass du Lese- und Schreibberechtigungen für dein Persönliches und "
+"für das ».mp«-Verzeichnis hast (falls letzteres überhaupt existiert).<br /"
+">Kannst Du das Problem nicht selbst in den Griff bekommen, frage bitte "
+"einfach auf <a href=\"http://mp.devkid.net/\">http://mp.devkid.net/</a> nach "
+"Hilfe.<br />Um mehr über das Problem in Erfahrung zu bringen, versuche "
+"bitte, »mp«von einem Terminal aus zu starten."
+
+#: src/MainWindow.py:72
+msgid "&File"
+msgstr "&Datei"
+
+#: src/MainWindow.py:72
+msgid "Rearrange window contents"
+msgstr "Fenster neu anordnen"
+
+#: src/MainWindow.py:75
+msgid "Play"
+msgstr "Play"
+
+#: src/MainWindow.py:76
+msgid "Skip"
+msgstr "Überspringen"
+
+#: src/MainWindow.py:103 src/MainWindow.py:111
+msgid "Stopped"
+msgstr "Angehalten"
+
+#: src/MainWindow.py:113
+msgid "Currently playing:"
+msgstr "Momentan wird gespielt:"
+
+#: src/MainWindow.py:128
+msgid "Title"
+msgstr "Titel"
+
+#: src/MainWindow.py:128
+msgid "Album"
+msgstr "Album"
+
+#: src/MainWindow.py:138
+msgid "All artists"
+msgstr "Alle Interpreten"
+
+#: src/MainWindow.py:167
+msgid "All albums"
+msgstr "Alle Alben"
